@@ -1,0 +1,18 @@
+{
+  "name": "my-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "e2e-all": "jest"
+  },
+  "author": "kamil",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "puppeteer": "^1.20.0"
+  }
+}
