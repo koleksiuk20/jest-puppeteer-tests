@@ -9,7 +9,7 @@ E2E tests with Jest and Puppeteer
 ## Installation
 
 1. `git clone git@github.com:koleksiuk20/jest-puppeteer-tests.git`
-2. `cd jest-puppeteer`
+2. `cd jest-puppeteer-tests`
 3. `npm init`
 4. `npm install`
 
